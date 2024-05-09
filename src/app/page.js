@@ -9,10 +9,10 @@ export default function Home(){
 				<Link href='/'>Home</Link>
 				</li>
 			<li>
-			<Link href='/about'>About</Link>
+			<Link href='/about'>About Page</Link>
 			</li>
 			<li>
-			<Link href='/contact'>Contact</Link>
+			<Link href='/contact'>Contact Page</Link>
 			</li>
 			</ul>
 			<h1>This is the Home Component</h1>
